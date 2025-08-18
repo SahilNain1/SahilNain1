@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SahilNain1
-I’m interested in Mathematics, mainly Probability and Expected Values, quantitative finance, and algorithmic problem-solving.
-🌱 I’m currently learning advanced quantitative techniques, including Monte Carlo simulations and optimization algorithms.
-💞️ I’m looking for probability-based projects, algorithmic trading simulations, or competitive programming challenges.
+- I’m interested in Mathematics, mainly Probability and Expected Values, quantitative finance, and algorithmic problem-solving.
+- 🌱 I’m currently learning advanced quantitative techniques, including Monte Carlo simulations and optimization algorithms.
+- 💞️ I’m looking for probability-based projects, algorithmic trading simulations, or competitive programming challenges.
 --->
